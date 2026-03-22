@@ -24,3 +24,4 @@ This project automates the process of setting up a PostgreSQL database and loadi
 1. Start the containers:
    ```bash
    docker compose up -d
+python load_data.py
